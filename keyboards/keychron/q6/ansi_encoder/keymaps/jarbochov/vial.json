@@ -5,7 +5,7 @@
   "lighting": "vialrgb",
   "matrix": {"rows": 6, "cols": 20},
   "vial": { 
-  "midi": "basic" 
+  "midi": "advanced" 
  },
   "customKeycodes": [
     {"name": "Mission Control", "title": "Mission Control in macOS", "shortName": "MCtrl"},
